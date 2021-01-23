@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 import TOC from "./components/TOC";
+import Hello from './Hello';
+
 
 class Subject extends Component {
   render() {
